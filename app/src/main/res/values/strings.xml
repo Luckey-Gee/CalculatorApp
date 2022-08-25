@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="et_nombre">Nombre</string>
+    <string name="et_datos">Datos</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="textview">TextView</string>
+</resources>
